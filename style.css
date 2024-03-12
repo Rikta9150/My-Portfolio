@@ -1,0 +1,10 @@
+.form-area{
+    width: 30%;
+    margin: auto;
+    background:Dark(226, 226, 226);
+    padding: 20px;
+    margin-top: 10%;
+    border-radius: 20px;
+
+    box-shadow: rgb(128, 128, 128) 1.5px 4.5px;
+}
